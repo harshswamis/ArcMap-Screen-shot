@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ArcMap_ScreenShot</Name>
+  <AddInID>{02a6fd2f-452a-4818-bc93-d2dddf4e8cf3}</AddInID>
+  <Description>ArcMap_ScreenShot</Description>
+  <Version>1.0</Version>
+  <Image>Images\ArcMap_ScreenShot_1.png</Image>
+  <Author>HarshvardhanS</Author>
+  <Company></Company>
+  <Date>19-11-2018</Date>
+  <Targets>
+    <Target name="Desktop" version="10.6" />
+  </Targets>
+  <AddIn language="CLR" library="ArcMap_ScreenShot.dll" namespace="ArcMap_ScreenShot">
+    <ArcMap>
+      <Commands>
+        <Button id="ArcMap_ScreenShot_ArcMap_ScreenShot" class="ArcMap_ScreenShot" message="ArcMap_ScreenShot" caption="ArcMap_ScreenShot" tip="ArcMap_ScreenShot" category="Add-In Controls" image="Images\ArcMap_ScreenShot.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

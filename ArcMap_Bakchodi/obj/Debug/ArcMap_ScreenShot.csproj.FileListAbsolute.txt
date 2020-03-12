@@ -1,0 +1,22 @@
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\ArcMap_Bakchodi.dll
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\ArcMap_Bakchodi.pdb
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\calculator.exe
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\ESRI.ArcGIS.Editor.dll
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\calculator.pdb
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\calculator.exe.config
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\ESRI.ArcGIS.Editor.xml
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\obj\Debug\ArcMap_Bakchodi.csproj.CoreCompileInputs.cache
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\obj\Debug\ArcMap_Bakchodi.dll
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\obj\Debug\ArcMap_Bakchodi.pdb
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\obj\Debug\ArcMap_Bakchodi.csprojAssemblyReference.cache
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\obj\Debug\ArcMap_Bakchodi.csproj.CopyComplete
+C:\Users\harshvardhans\source\repos\ArcMap_Bakchodi\ArcMap_Bakchodi\bin\Debug\ArcMap_Bakchodi.esriAddIn
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\bin\Debug\ArcMap_ScreenShot.dll
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\bin\Debug\ArcMap_ScreenShot.pdb
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\bin\Debug\calculator.pdb
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\bin\Debug\calculator.exe.config
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\obj\Debug\ArcMap_ScreenShot.csprojAssemblyReference.cache
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\obj\Debug\ArcMap_ScreenShot.csproj.CopyComplete
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\obj\Debug\ArcMap_ScreenShot.dll
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\obj\Debug\ArcMap_ScreenShot.pdb
+D:\BackUp Stored at Chandrika's PC\HarshFiles\BackUp(Feb_2020)\Visual Studio Projects\Projects_2017\source\repos\ArcMap_ScreenShot\ArcMap_Bakchodi\bin\Debug\ArcMap_ScreenShot.esriAddIn
