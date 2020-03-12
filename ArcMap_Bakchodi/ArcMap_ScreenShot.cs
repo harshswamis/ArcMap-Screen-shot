@@ -5,7 +5,7 @@ using System.IO;
 using ESRI.ArcGIS.ArcMapUI;
 using System.Windows.Forms;
 using ESRI.ArcGIS.Carto;
-using calculator;
+
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Diagnostics;
